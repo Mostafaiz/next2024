@@ -13,9 +13,11 @@ node -v
 
 ```
 
-رفتن به پوشه قبل 
+رفتن به پوشه ها در ترمینال
 ```
-cd..
+cd..     // رفتن به پوشه قبل
+cd my-app    // رفتن به پوشه مای اپ
+
 ```
 
 
@@ -26,7 +28,7 @@ npx create-next-app@latest
 ```
 
 
-Run `npm run de`v to start the development server.
+Run `npm run dev` to start the development server.
 Visit `http://localhost:3000` to view your application.
 Edit `app/page.tsx` (or `pages/index.tsx`) file and save it to see the updated result in your browser.
 Next Step
